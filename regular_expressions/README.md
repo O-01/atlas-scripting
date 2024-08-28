@@ -35,6 +35,7 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 - All your regex must be built for the Oniguruma library
 ## Tasks
 #### 0. Simply matching School
+<img width="969" alt="reg0" src="https://github.com/user-attachments/assets/ed372730-7d8c-4b6d-bcf3-9c18dd2df3d2">
 
 Requirements:
 - The regular expression must match `School`
@@ -58,6 +59,7 @@ $
 - File: `0-simply_match_school.rb`
 #
 #### 1. Repetition Token #0
+<img width="959" alt="reg1" src="https://github.com/user-attachments/assets/bf75609b-6248-451e-9fbb-638d816875da">
 
 Requirements:
 - Find the regular expression that will match the above cases
@@ -69,6 +71,7 @@ Requirements:
 - File: `1-repetition_token_0.rb`
 #
 #### 2. Repetition Token #1
+<img width="967" alt="reg2" src="https://github.com/user-attachments/assets/19f2eb00-d91f-450d-a2ae-d2d79138b9c5">
 
 Requirements:
 - Find the regular expression that will match the above cases
@@ -80,6 +83,7 @@ Requirements:
 - File: `2-repetition_token_1.rb`
 #
 #### 3. Repetition Token #2
+<img width="974" alt="reg3" src="https://github.com/user-attachments/assets/61d62957-745f-421b-97a8-10f12dcbf361">
 
 Requirements:
 - Find the regular expression that will match the above cases
@@ -91,6 +95,7 @@ Requirements:
 - File: `3-repetition_token_2.rb`
 #
 #### 4. Repetition Token #3
+<img width="956" alt="reg4" src="https://github.com/user-attachments/assets/4db547b2-d104-4824-b077-e4b783db88d3">
 
 Requirements:
 - Find the regular expression that will match the above cases
@@ -151,6 +156,7 @@ sylvain@ubuntu$
 - File: `6-phone_number.rb`
 #
 #### 7. OMG WHY ARE YOU SHOUTING?
+![reg7](https://github.com/user-attachments/assets/99f7e3f8-2b56-419d-a7dc-0d1a0ca796d0)
 
 Requirement:
 - The regular expression must be only matching: capital letters
@@ -216,7 +222,10 @@ Requirements:
 
 Example:
 
+<img width="500" alt="reg9" src="https://github.com/user-attachments/assets/bd520155-2981-4117-bb1f-5d86400ba8d8">
+
 Well, I guess I can get into LinkedIn hiring process:
+#
 #### Repo:
 - GitHub repository: `atlas-scripting`
 - Directory: `regular_expressions`
